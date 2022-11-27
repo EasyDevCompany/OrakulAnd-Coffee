@@ -10,6 +10,10 @@ The bot is designed for a coffee shop that is based on tarot cards, in this bot 
 pull cards with predictions 3 times a day, the bot has a convenient admin menu for tracking statistics
 and a newsletter for all bot users
 
+<a href="https://t.me/Coffeetarot_bot">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a> - OrakulAndCoffe
+
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
