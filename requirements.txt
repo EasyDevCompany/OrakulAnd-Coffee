@@ -1,0 +1,9 @@
+environs~=9.5.0
+SQLAlchemy~=1.4.44
+loguru~=0.6.0
+aiogram~=2.23.1
+pydantic~=1.10.2
+celery~=5.2.7
+psycopg2~=2.9.5
+dependency-injector~=4.40.0
+redis~=4.3.5
